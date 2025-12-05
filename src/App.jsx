@@ -15,7 +15,6 @@ export default function App() {
   return (
     <div className="w-full overflow-x-hidden bg-black text-white">
       <Navbar />
-
       {/* Full-width main content */}
       <main className="w-full p-0 m-0">
         <Hero />
